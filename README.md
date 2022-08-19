@@ -6,7 +6,7 @@ Nesta solução as dependências entre os módulos não são definidas programat
 
 ------------
 
-#### Tipos de ciclos de vida
+### Tipos de ciclos de vida
 
 ##### Singleton
 Significa que apenas uma única instância será criada. Essa instância é compartilhada entre todos os componentes que exigem isso. A mesma instância é, portanto, usada sempre.
@@ -17,7 +17,7 @@ Uma instância é criada uma vez por escopo. Um escopo é criado em cada solicit
 ##### Transient
 Os componentes são criados toda vez que são solicitados e nunca são compartilhados.
 
-#### Tipos de DI
+### Tipos de DI
 
 - Injeção via construtor
 - Registro de genéricos
